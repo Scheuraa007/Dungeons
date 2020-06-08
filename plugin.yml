@@ -1,0 +1,9 @@
+main: de.Scheuraa.Dungeons.Main.Main
+version: 1.0
+name: Dungeons
+author: Scheuraa
+api-version: 1.13
+commands:
+  item:
+    description: Fuegt ein Item dem DungeonLoot hinzu
+ 
